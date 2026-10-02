@@ -1,11 +1,13 @@
-# Platform Panic 🚂
+# পাইলট শাহিদ 🚂
 
-## [▶ Click here to play the game](https://mdmortuzahossain.github.io/platform-panic/)
+## [▶ এখানে ক্লিক করে গেম খেলুন](https://mdmortuzahossain.github.io/platform-panic/)
 
-A funny train-driver mini game made for a friend who drives trains.
+ট্রেন নিজেই চলে। শুরুতে গতি ৪০ কিমি/ঘণ্টা, ধীরে ধীরে বাড়তে বাড়তে ৫ মিনিটে ৮০ কিমি/ঘণ্টা হয়। এরপরও গতি বাড়ে।
 
-Click **Clock in →** to begin. Hold **↑ / W** or the **Accelerate** button to move. Hold **↓ / S** to brake. Tap **Space** to honk at cows. Press **P** to pause. On a phone, use the on-screen buttons.
+**যাত্রা শুরু** চাপুন। গরু, ছাগল বা মানুষ সামনে দেখলে **হর্ন দিন** বাটন অথবা **Space** চাপুন। তারা রেললাইন থেকে পাশে সরে যাবে। গরু-ছাগল বলবে “ধন্যবাদ” বা “বেঁচে গেলাম”, মানুষ দাঁত বের করে হেসে বলবে “সালাম, পাইলট সাব”।
 
-Stop within the yellow zone at five ridiculous stations. Protect the passengers’ soup and earn your driver rating!
+কাকতাড়ুয়া স্থির থাকে; তাকে হর্ন দিতে হবে না। ৩ বার কাউকে সরাতে ভুললে যাত্রা শেষ। **P** দিয়ে বিরতি, ফোনে পর্দার বাটন ব্যবহার করুন।
 
-The game runs directly in your browser. No installation or sign-in needed.
+পথে বাবুল কাকার চা এর দোকান, মাসুদ ভাই এর মুদির দোকান, তাতাল এর দোকান (ইলেক্ট্রিক শপ) এবং নামহীন দোকান দেখা যাবে।
+
+ব্রাউজারেই খেলা যায়—কিছু ইনস্টল বা সাইন ইন করতে হয় না।
